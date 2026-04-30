@@ -6,6 +6,6 @@ print('y')
 
 
 
-# git add hello.py
-# git commit -m "added new python file"
-# git push -u origin main
+# git add test.py
+# git commit -m git"added new python file"
+# push -u origin main
